@@ -1,0 +1,15 @@
+{
+  "name": "A12N Notifier",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "description": "暴れん坊将軍の次回放映予定を表示します。",
+
+  "browser_action": {
+    "default_icon": "img/icon_19.png",
+    "default_title": "暴れん坊将軍",
+    "default_popup": "popup.html"
+  },
+
+  "content_security_policy": "script-src 'self' https://query.yahooapis.com/v1/public/; object-src 'self'"
+}
