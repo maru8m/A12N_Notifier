@@ -1,3 +1,3 @@
-# A12N_Notifier
+# A12N Notifier for Chrome
 
 hoge
